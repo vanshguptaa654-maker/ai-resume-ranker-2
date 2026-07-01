@@ -1,0 +1,38 @@
+[
+    {
+      "candidate_id": "C001",
+      "name": "Arjun Sharma",
+      "headline": "Senior Software Engineer | Backend Developer",
+      "experience_summary": "5 years of experience building scalable backend architectures using Python, Django, and AWS. Strong focus on database optimization and REST APIs.",
+      "skills": ["Python", "Django", "AWS", "SQL", "REST APIs"],
+      "profile_views": 142,
+      "platform_activity_days": 18
+    },
+    {
+      "candidate_id": "C002",
+      "name": "Priya Patel",
+      "headline": "Data Scientist & ML Engineer",
+      "experience_summary": "Passionate data scientist with 3 years of experience developing predictive models using Scikit-Learn, PyTorch, and Pandas. Experience deploying models on GCP.",
+      "skills": ["Python", "Machine Learning", "Scikit-Learn", "Pandas", "GCP"],
+      "profile_views": 95,
+      "platform_activity_days": 24
+    },
+    {
+      "candidate_id": "C003",
+      "name": "Rohan Das",
+      "headline": "Junior Full Stack Developer",
+      "experience_summary": "Recent graduate with hands-on internship experience building responsive web applications using JavaScript, React, and Node.js.",
+      "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"],
+      "profile_views": 40,
+      "platform_activity_days": 5
+    },
+    {
+      "candidate_id": "C004",
+      "name": "Ananya Iyer",
+      "headline": "Lead AI Research Engineer",
+      "experience_summary": "6+ years leading AI initiatives. Expert in Deep Learning, Natural Language Processing (NLP), and fine-tuning Transformer models like BERT and GPT.",
+      "skills": ["Python", "Deep Learning", "NLP", "Transformers", "PyTorch"],
+      "profile_views": 210,
+      "platform_activity_days": 12
+    }
+  ]
